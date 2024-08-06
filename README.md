@@ -1,4 +1,4 @@
-# E-Commerce-Website-Spring-Boot
+# E-Commerce-Website-Java-Spring-Boot
 Main Website: https://github.com/KietLuong1/book-store.git
 
 Team Member:  
